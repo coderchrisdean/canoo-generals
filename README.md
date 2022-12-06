@@ -17,7 +17,8 @@ https://github.com/coderchrisdean/first-week-hw
 
 <h2>Screenshot of Project</h2>
 <hr>
-![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/113635027/205929342-8591ca37-5754-4d18-9cd1-dcae8cd47b58.png)
+<"ahref=
+https://user-images.githubusercontent.com/113635027/205929342-8591ca37-5754-4d18-9cd1-dcae8cd47b58.png"><img src="https://user-images.githubusercontent.com/113635027/205929342-8591ca37-5754-4d18-9cd1-dcae8cd47b58.pn"></a>
 
 
 # 01 HTML, CSS, and Git: Code Refactor
