@@ -9,11 +9,11 @@ This is the re-submitted assignment for week one homework of bootcamp.
 
 <h2>Deployed URL:</h2><hr>
 
-https://coderchrisdean.github.io/first-week-hw/Links to an external site.
+https://coderchrisdean.github.io/horesion-seo-project/
 
 <h2>Github Repo w/ Code URL:</h2>
 
-https://github.com/coderchrisdean/first-week-hw
+https://github.com/coderchrisdean/horesion-seo-project
 
 <h2>Screenshot of Project</h2>
 <hr>
