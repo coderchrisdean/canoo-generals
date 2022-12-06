@@ -1,3 +1,25 @@
+# Horeseion-SEO-Project
+## Week-1 Assignment
+<hr>
+This is the re-submitted assignment for week one homework of bootcamp.  
+ - I changed the repo to a unique name:
+ - Updated the README.md
+ - Added Comments in CSS
+ - Fixed-Broken Links
+
+<h2>Deployed URL:</h2><hr>
+
+https://coderchrisdean.github.io/first-week-hw/Links to an external site.
+
+<h2>Github Repo w/ Code URL:</h2>
+
+https://github.com/coderchrisdean/first-week-hw
+
+<h2>Screenshot of Project</h2>
+<hr>
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/113635027/205929342-8591ca37-5754-4d18-9cd1-dcae8cd47b58.png)
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
