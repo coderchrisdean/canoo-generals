@@ -5,27 +5,27 @@
     padding: 0;
     margin: 0;
 }
-/* styles body element */
+/* styles everything within the body element */
 body {
     background-color: #d9dcd6;
 }
-/* styles header element */
+/* styles everything within ghe header element */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*  styles the h1 element within the header */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* styles the class of .seo within the h1 and header elements */
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* targets the nav element within the header */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,11 +33,11 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* targets the ul, nav, and header elements */
 header nav ul {
     list-style-type: none;
 }
-
+/* targets the */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;

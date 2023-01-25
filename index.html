@@ -3,6 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css" />
+    <!-- // added refactored stylesheet -->
+    <link rel="stylesheet" href="./assets/css/style-refactored.css" />
     <title>Horiseon: Online Solutions for Your Company</title>
   </head>
 
@@ -33,9 +35,12 @@
         </ul>
       </nav>
     </header>
-    <main class="hero"></main>
-    <main class="content">
-      <article class="search-engine-optimization">
+    <!-- hero ckass -->
+    <main class="hero">
+      <!-- aside content on the right -->
+    <aside class="content">
+      <!-- updated id to section so link will work -->
+      <section id= "search-engine-optimization" class="search-engine-optimization">
         <img
           title="Search Engine Optimization"
           src="./assets/images/search-engine-optimization.jpg"
@@ -49,7 +54,7 @@
           home. Search Engine Optimization (SEO) allows you to increase your
           visibility and find the right customers for your business.
         </p>
-      </article>
+      </section>
       <section
         id="online-reputation-management"
         class="online-reputation-management"
@@ -84,7 +89,7 @@
           your lead generation.
         </p>
       </section>
-    </main>
+    </aside>
     <aside class="benefits">
       <section class="benefit-lead">
         <h3>Lead Generation</h3>
