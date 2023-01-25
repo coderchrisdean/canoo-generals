@@ -3,6 +3,8 @@
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
+* [Link To Deployed Application](#link-to-deployed-application)
+* [Link To GitHub Repository](#link-to-github-repository)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
@@ -18,6 +20,15 @@ This is a project for the Week-One Horeseion SEO refactoring assignment. It is a
 ## Installation
 
 To install this project, simply clone the repository to your local machine and open the index.html file in your browser.
+
+## Link To Deployed Application
+
+https://coderchrisdean.github.io/horesion-seo-project/
+
+## Link To GitHub Repository
+
+https://github.com/coderchrisdean/horesion-seo-project
+
 
 ## Usage
 
